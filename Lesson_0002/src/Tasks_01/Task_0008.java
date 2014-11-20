@@ -1,3 +1,5 @@
+package Tasks_01;
+
 /**
  * Created by vladimirkr on 11/20/2014.
  */
